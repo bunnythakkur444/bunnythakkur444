@@ -53,6 +53,7 @@ Check out my repos ⬇️
 ## Tech Knowdledge
 
 > Languages
+> <br />
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
