@@ -11,7 +11,7 @@
 [![Linkedin: amadoabaca](https://img.shields.io/badge/-amado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/amado-abaca-59845a1b4/)](https://www.linkedin.com/in/amado-abaca-59845a1b4/)
 ![](https://visitor-badge.glitch.me/badge?page_id=amadoabaca.amadoabaca)
 
-< aboutMe.js
+ > aboutMe.js
 
 ```javascript
 const Lalit_Kumar = {
