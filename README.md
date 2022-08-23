@@ -1,5 +1,5 @@
-zsh
-```csharp
+
+```zsh
 > Hi there 👋 Welcome to my GitHub! I'm Lalit Kumar, a full-stack web developer.
 ```
 
@@ -19,7 +19,7 @@ const Lalit_Kumar = {
 };
 ```
 
-
+&nbsp;
 ### 🛠 &nbsp;Tech Stack
 -------------------------
 
