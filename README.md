@@ -59,13 +59,5 @@ Check out my repos ⬇️
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
 ![NetBeans](https://img.shields.io/badge/-NetBeans-05122A?style=flat&logo=NetBeans-ide&logoColor=2C2255)
 
-## &#x1f4c8; GitHub Stats
-
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunsridher&show_icons=true&locale=en&layout=compact&theme=radical" alt="arunsridher" /></p>
-
- 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunsridher&theme=radical" alt="arunsridher" /></p>
- 
- <br />
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arunsridher&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
