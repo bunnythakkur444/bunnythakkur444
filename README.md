@@ -7,13 +7,13 @@
 
 ```javascript
 const Lalit_Kumar = {
-    pronouns: he | him,
-    code: [ HTML, CSS, Javascript, ReactJs, NodeJs ],
-    askMeAbout: [Full-stack web dev, tech, music, Cold Drink ],
+    pronouns: He | Him,
+    code: [ Html, Css, Javascript, ReactJs, NodeJs ],
+    askMeAbout: [Full-stack web dev, Tech, Music, Cold Drink, E-sport ],
     technologies: {
-        frontEnd: [HTML, CSS, JavaScript, Bootstrap, Materialize, GSHAP , SASS ]
+        frontEnd: [Html, Css, JavaScript, Bootstrap, Materialize, GSHAP , SASS ]
              
-        backEnd: [Node.Js, Express, Firebase, Redux, MongoDb ]
+        backEnd: [NodeJs, Express, Firebase, Redux, MongoDb, SocketIo ]
              }
 };
 ```
