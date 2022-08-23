@@ -18,9 +18,6 @@ const Lalit_Kumar = {
 };
 ```
 
-<p align="center">
-Check out my repos ⬇️  
-</p>
 
 ### 🛠 &nbsp;Tech Stack
 -------------------------
@@ -132,3 +129,7 @@ Discord: RandomPotato#1377
 <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
 <br />
+
+<p align="center">
+Check out my repos ⏫  
+</p>
