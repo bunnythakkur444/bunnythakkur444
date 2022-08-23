@@ -42,7 +42,7 @@ const Lalit_Kumar = {
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
  
-  
+ &nbsp; 
 ### Tech Knowdledge
 -------------------------
 
@@ -108,7 +108,7 @@ Discord: RandomPotato#1377
 
 
 <img width="80%" alt="" src="./" />
-<p align="center"><a href="https://github.com/lalit1211?tab=repositories">Hello Buddy, You can call me Jerry ×͜×. Usually, I change your ideas in to brand.</a></p>
+<p align="center"><a href="https://github.com/lalit1211?tab=repositories" color="white">Hello Buddy, You can call me Jerry ×͜×. Usually, I change your ideas in to brand.</a></p>
 
 <br />
 
