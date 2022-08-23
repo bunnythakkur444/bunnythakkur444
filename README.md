@@ -58,7 +58,7 @@ Check out my repos ⬇️
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 
-### Libraries and Frameworks
+>Libraries and Frameworks
  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
  ![BootStrap](https://img.shields.io/badge/-Bootstrap%20-333333?style=flat&logo=bootstrap)
  ![SASS](https://img.shields.io/badge/-SASS%20-333333?style=flat&logo=SASS)
