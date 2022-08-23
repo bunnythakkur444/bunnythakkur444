@@ -4,7 +4,6 @@
 ```
 
 
-> Hi there 👋 Welcome to my GitHub! I'm Amado Abaca, frontend developer
 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/amabk_?style=social)
