@@ -18,13 +18,13 @@
 
 ```javascript
 const Lalit_Kumar = {
-    pronouns: "he" | "him",
-    code: [ HTML, CSS, Javascript ],
-    askMeAbout: ["Full-stack web dev", "tech", "music", "coffee" ],
+    pronouns: he | him,
+    code: [ HTML, CSS, Javascript, React.js, Node.js ],
+    askMeAbout: [Full-stack web dev, tech, music, Cold Drink ],
     technologies: {
-        frontEnd: ["HTML", "CSS", "JavaScript, "Bootstrap", "Materialize", "GSHAP" , "SASS" ]
+        frontEnd: [HTML, CSS, JavaScript, Bootstrap, Materialize, GSHAP , SASS ]
              
-        backEnd: ["Node.Js", "Express", "Firebase", "Redux", "MongoDb" ]
+        backEnd: [Node.Js, Express, Firebase, Redux, MongoDb ]
              }
 };
 ```
