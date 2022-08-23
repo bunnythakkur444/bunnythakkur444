@@ -53,19 +53,18 @@ Check out my repos ⬇️
 ## Tech Knowdledge
 
 > Languages
-> <br />
+ <br />
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 
 ### Libraries and Frameworks
- ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet)
- ![.Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
- ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras&logoColor=f73636)
- ![Scikit-Learn](https://img.shields.io/badge/-sklearn-333333?style=flat&logo=scikitlearn)
- ![Pandas](https://img.shields.io/badge/-pandas-333333?style=flat&logo=pandas)
- ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+ ![BootStrap](https://img.shields.io/badge/-Bootstrap%20-333333?style=flat&logo=bootstrap)
+ ![SASS](https://img.shields.io/badge/-SASS%20-333333?style=flat&logo=SASS)
+ ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
+ ![React](https://img.shields.io/badge/-React%20-333333?style=flat&logo=React)
+
    
 ### Infrastructure and DevOps
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -82,7 +81,7 @@ Check out my repos ⬇️
   ![Visual Studio Community/Enterprise](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio-code&logoColor=7e10cc)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-  ![Windows](https://img.shields.io/badge/-Windows%2011-333333?style=flat&logo=windows)
+  ![Windows](https://img.shields.io/badge/-Windows%2010-333333?style=flat&logo=windows)
 
 </br>
 
