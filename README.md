@@ -8,7 +8,7 @@
 ```javascript
 const Lalit_Kumar = {
     pronouns: he | him,
-    code: [ HTML, CSS, Javascript, React.js, Node.js ],
+    code: [ HTML, CSS, Javascript, ReactJs, NodeJs ],
     askMeAbout: [Full-stack web dev, tech, music, Cold Drink ],
     technologies: {
         frontEnd: [HTML, CSS, JavaScript, Bootstrap, Materialize, GSHAP , SASS ]
