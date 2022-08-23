@@ -51,9 +51,8 @@ Check out my repos ⬇️
  
   
 ## Tech Knowdledge
-```csharp
 -------------------------
-```
+
 
 > Languages
  
