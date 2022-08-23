@@ -1,14 +1,11 @@
 
 ```zsh
-> 👋 Hi, I’m Lalit Kumar.
+> Hi there 👋 Welcome to my GitHub! I'm Lalit Kumar, a full-stack web developer.
 ```
 
 
 - 👋 Hi, I’m @bunnythakkur444
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 ## Hi there 👋 Welcome to my GitHub! I'm Amado Abaca, frontend developer
 
