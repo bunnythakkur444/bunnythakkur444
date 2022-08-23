@@ -125,9 +125,9 @@ Discord: RandomPotato#1377
 
 
 
-
-<p align="center"><a href="https://github.com/lalit1211?tab=repositories">Hello Buddy, you can call me Jerry ×͜×. I change your ideas in to brands</a></p>
 <img width="80%" alt="" src="./" />
+<p align="center"><a href="https://github.com/lalit1211?tab=repositories">Hello Buddy, you can call me Jerry ×͜×. Usually, I make your ideas in to brands.</a></p>
+
 <br />
 
 <p align="center">
