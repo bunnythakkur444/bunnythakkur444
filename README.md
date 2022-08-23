@@ -107,16 +107,15 @@ const Lalit_Kumar = {
 ```csharp
 anordinaryusername@github
 -------------------------
-OS: Arch Linux x86_64
-Shell: zsh 5.8
+OS: Window 10
 Pronouns: He/Him
-Location: Artesia, CA
+Location: UP, India
 Frameworks: React
 Languages: JavaScript, TypeScript,
            HTML, CSS
-Learning: Node.js, Express, PostgreSQL,
-          Three.js, CPP
-Hobbies: Gardening, Cooking, Gaming
+Learning: Node.js, Express, SocketIo
+          Gshap, CPP
+Hobbies: Cold Drink, E-sport, Teck, Music
 Commits: 968
 Stars: 14
 Discord: RandomPotato#1377
@@ -126,7 +125,7 @@ Discord: RandomPotato#1377
 
 
 <img width="80%" alt="" src="./" />
-<p align="center"><a href="https://github.com/lalit1211?tab=repositories">Hello Buddy, you can call me Jerry ×͜×. Usually, I make your ideas in to brands.</a></p>
+<p align="center"><a href="https://github.com/lalit1211?tab=repositories">Hello Buddy, You can call me Jerry ×͜×. Usually, I change your ideas in to brand.</a></p>
 
 <br />
 
