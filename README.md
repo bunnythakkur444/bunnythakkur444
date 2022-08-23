@@ -3,12 +3,9 @@
 > Hi there 👋 Welcome to my GitHub! I'm Lalit Kumar, a full-stack web developer.
 ```
 
-
-- 👋 Hi, I’m @bunnythakkur444
-
-
-> Hi there 👋 Welcome to my GitHub! I'm Amado Abaca, frontend developer
-
+> ```zsh
+ Hi there 👋 Welcome to my GitHub! I'm Amado Abaca, frontend developer
+```
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/amabk_?style=social)
 [![Linkedin: amadoabaca](https://img.shields.io/badge/-amado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/amado-abaca-59845a1b4/)](https://www.linkedin.com/in/amado-abaca-59845a1b4/)
