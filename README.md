@@ -5,11 +5,12 @@
 
  > aboutMe.js
 
-```javascript
+javascript
+```csharp
 const Lalit_Kumar = {
     Pronouns: He / Him
     Code: [ Html, Css, Javascript, ReactJs, NodeJs ]
-    AskMeAbout: [Full-stack web dev, Tech, Music, Cold Drink, E-sport ],
+    AskMeAbout: [Full-stack web dev, Tech, Music, Cold Drink, E-sport ]
     Technologies: {
         frontEnd: [Html, Css, JavaScript, Bootstrap, Materialize, GSHAP , SASS ]
              
