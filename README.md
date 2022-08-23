@@ -51,7 +51,7 @@ Check out my repos ⬇️
  
   
 ## Tech Knowdledge
-```zsh
+```csharp
 -------------------------
 ```
 
