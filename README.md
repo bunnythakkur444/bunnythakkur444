@@ -5,8 +5,8 @@
 
  > aboutMe.js
 
-javascript
-```csharp
+
+```javascript
 const Lalit_Kumar = {
     Pronouns: He / Him
     Code: [ Html, Css, Javascript, ReactJs, NodeJs ]
