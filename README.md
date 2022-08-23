@@ -108,7 +108,7 @@ Discord: RandomPotato#1377
 
 
 <img width="80%" alt="" src="./" />
-<p align="center"><a href="https://github.com/lalit1211?tab=repositories" color="white">Hello Buddy, You can call me Jerry ×͜×. Usually, I change your ideas in to brand.</a></p>
+<p align="center" color="white"><a href="https://github.com/lalit1211?tab=repositories" color="white">Hello Buddy, You can call me Jerry ×͜×. Usually, I change your ideas in to brand.</a></p>
 
 <br />
 
