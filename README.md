@@ -50,7 +50,7 @@ Check out my repos ⬇️
 
  
   
-## Tech Knowdledge
+### Tech Knowdledge
 -------------------------
 
 
