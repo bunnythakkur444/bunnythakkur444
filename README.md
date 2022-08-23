@@ -17,18 +17,15 @@
 ### aboutMe.js
 
 ```javascript
-const amado = {
+const Lalit_Kumar = {
     pronouns: "he" | "him",
-    code: [Javascript, HTML, CSS],
-    askMeAbout: ["web dev", "tech", "crypto", "music", "coffee"],
+    code: [ HTML, CSS, Javascript ],
+    askMeAbout: ["Full-stack web dev", "tech", "music", "coffee" ],
     technologies: {
-        frontEnd: {
-            css: ["bootstrap", "materialize"]
-        },
-        backEnd: {
-            js: ["firebase", "node"]
-        }        
-    }
+        frontEnd: ["HTML", "CSS", "JavaScript, "Bootstrap", "Materialize", "GSHAP" , "SASS" ]
+             
+        backEnd: ["Node.Js", "Express", "Firebase", "Redux", "MongoDb" ]
+             }
 };
 ```
 
