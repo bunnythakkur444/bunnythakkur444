@@ -51,6 +51,8 @@ Check out my repos ⬇️
  
   
 ## Tech Knowdledge
+-------------------------
+
 
 > Languages
  
