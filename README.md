@@ -52,12 +52,11 @@ Check out my repos ⬇️
   
 ## Tech Knowdledge
 
-### Languages
-  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=CSharp&logoColor=7e10cc)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=7e10cc)
+> Languages
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+
+
 ### Libraries and Frameworks
  ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet)
  ![.Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
