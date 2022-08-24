@@ -128,7 +128,7 @@ Check out my repos ⏫
     <a href="https://linkedin.com/in/lalit1211_" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
     </a>
-    <a href="https://hackerrank.com/ahsankhan26" alt="HackerRank">
+    <a href="[https://hackerrank.com/ahsankhan26](https://instagram.com/lalit1211_)" alt="HackerRank">
         <img src="https://img.shields.io/badge/-HackerRank-3a424f?style=flat-square&logo=hackerrank" />
     </a>
     <a href="https://stackoverflow.com/users/13870209/ahsan-khan" alt="StackOverflow">
