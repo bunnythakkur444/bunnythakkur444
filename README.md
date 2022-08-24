@@ -129,6 +129,6 @@ Check out my repos ⏫
     </a>&nbsp;
     <a align="center" href="mailto:lalitpratapsingh2002@gmail.com">
         <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836.svg?&style=flat-square&logo=gmail&logoColor=white" />
-    </a>;
+    </a>
 </p>
 
