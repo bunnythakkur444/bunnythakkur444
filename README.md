@@ -89,7 +89,6 @@ const Lalit_Kumar = {
 
 ```csharp
 anordinaryusername@github
-https://github.com/lalit1211?tab=repositories
 -------------------------
 OS: Window 10
 Pronouns: He/Him
@@ -100,9 +99,9 @@ Languages: JavaScript, TypeScript,
 Learning: Node.js, Express, SocketIo
           Gshap, CPP
 Hobbies: Cold Drink, E-sport, Teck, Music
-Commits: 968
-Stars: 14
-Discord: RandomPotato#1377
+Commits: ___
+Stars: __
+Discord: lalit1211_
 ```
 
 
