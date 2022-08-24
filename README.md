@@ -121,4 +121,4 @@ Check out my repos ⏫
 
 <a href="https://www.linkedin.com/in/lalit1211_" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> &nbsp;
   <a href="https://instagram.com/lalit1211_" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white) </a> &nbsp;
-  <a href="mailto:lalitpratapsingh2002@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+  <a href="mailto:lalitpratapsingh2002@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" align='center'/></a> &nbsp;
