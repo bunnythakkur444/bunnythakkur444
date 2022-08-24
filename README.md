@@ -123,10 +123,10 @@ Check out my repos ⏫
 <p  align="center">
     <a href="https://linkedin.com/in/lalit1211_" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
-    </a>&nbsp; &nbsp;
+    </a>&nbsp; &nbsp; &nbsp; &nbsp;
     <a  href="https://instagram.com/lalit1211_" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="LinkedIn">
-    </a>&nbsp; &nbsp;
+    </a>&nbsp; &nbsp; &nbsp; &nbsp;
     <a align="center" href="mailto:lalitpratapsingh2002@gmail.com">
         <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836.svg?&style=flat-square&logo=gmail&logoColor=white" />
     </a>&nbsp; &nbsp;
