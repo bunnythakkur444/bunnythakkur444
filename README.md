@@ -119,9 +119,9 @@ Check out my repos ⏫
 
 
 
-  <a align="center" href="https://www.linkedin.com/in/lalit1211_" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
-  <a align="center" href="https://instagram.com/lalit1211_" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="LinkedIn"></a>&nbsp;
-  <a align="center" href="mailto:lalitpratapsingh2002@gmail.com"><img alt="Gmail" align="center" src="https://img.shields.io/badge/Gmail-D14836.svg?&style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
+  <a align="center" href="https://www.linkedin.com/in/lalit1211_" target="_blank"><img  src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+  <a align="center" href="https://instagram.com/lalit1211_" target="_blank"><img  src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="LinkedIn"></a>&nbsp;
+  <a align="center" href="mailto:lalitpratapsingh2002@gmail.com"><img alt="Gmail"  src="https://img.shields.io/badge/Gmail-D14836.svg?&style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
 
 ----------------------------------------------------
 <p  align="center">
