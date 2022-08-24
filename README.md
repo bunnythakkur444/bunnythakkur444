@@ -85,7 +85,7 @@ const Lalit_Kumar = {
 
 ### &nbsp;
 -------------------------
-<img align="left" src="https://github.com/bunnythakkur444/bunnythakkur444/blob/images/lalit.jfif" alt="lalit1211_ (DP)" width="280" /> 
+<img align="left" src="https://github.com/bunnythakkur444/bunnythakkur444/blob/images/lalit.jfif" alt="lalit1211_ (DP)" width="280" radius="5" /> 
 
 ```csharp
 anordinaryusername@github
