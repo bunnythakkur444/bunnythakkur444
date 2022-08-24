@@ -124,22 +124,12 @@ Check out my repos ⏫
   <a align="center" href="mailto:lalitpratapsingh2002@gmail.com"><img alt="Gmail" align="center" src="https://img.shields.io/badge/Gmail-D14836.svg?&style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
 
 ----------------------------------------------------
-<p id="socialIcons" align="center">
+<p  align="center">
     <a href="https://linkedin.com/in/lalit1211_" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
     </a>
-    <a href="[https://hackerrank.com/ahsankhan26](https://instagram.com/lalit1211_)" alt="HackerRank">
-        <img src="https://img.shields.io/badge/-HackerRank-3a424f?style=flat-square&logo=hackerrank" />
-    </a>
-    <a href="https://stackoverflow.com/users/13870209/ahsan-khan" alt="StackOverflow">
-        <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" />
+    <a align="center" href="https://instagram.com/lalit1211_" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="LinkedIn">
     </a>
 </p>
 
-[banner]: https://raw.githubusercontent.com/ahsankhan26/ahsankhan26/master/banner.jpg
-[website]: https://ahsankhan.me
-[github]: https://github.com/ahsankhan26
-[linkedin]: https://linkedin.com/in/ahsankhan26
-[hackerrank]: https://hackerrank.com/ahsankhan26
-[instagram]: https://instagram.com/ahsankhan26
-[stackoverflow]: https://stackoverflow.com/users/13870209/ahsan-khan
