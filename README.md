@@ -119,6 +119,6 @@ Check out my repos ⏫
 
 
 
-
+<a href="https://instagram.com/lalit1211_" target="_blank"><img align="left" alt="Aakarsh B | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 
  ![Instagram](https://img.shields.io/badge/-Instagram%20-333333?style=flat&logo=instagram)
