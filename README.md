@@ -121,3 +121,5 @@ Check out my repos ⏫
 
 
  <a href="https://instagram.com/lalit1211_" target="_blank">![Instagram](https://img.shields.io/badge/-Instagram%20-333333?style=flat&logo=instagram) </a>
+  <a href="https://instagram.com/lalit1211_" target="_blank">https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white </a>
+
