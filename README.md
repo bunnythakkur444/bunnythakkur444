@@ -83,9 +83,9 @@ const Lalit_Kumar = {
 </br>
 
 
-### &nbsp;
+### &nbsp; https://i.redd.it/h7dae4o0uk461.jpg
 -------------------------
-<img align="left" src="https://i.redd.it/h7dae4o0uk461.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
+<img align="left" src="https://github.com/bunnythakkur444/bunnythakkur444/blob/images/lalit.jfif" alt="lalit1211_ (DP)" width="320" /> 
 
 ```csharp
 anordinaryusername@github
