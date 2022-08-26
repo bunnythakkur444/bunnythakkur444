@@ -33,7 +33,7 @@ const Lalit_Kumar = {
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 <br />
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
+![NoSQL](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDb)&nbsp;
 <br />
 <br />
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
