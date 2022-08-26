@@ -66,13 +66,9 @@ const Lalit_Kumar = {
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq)
+  
   ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws&logoColor=F90)
-  ![AzureDevOps](https://img.shields.io/badge/-Azure%20DevOps-333333?style=flat&logo=azuredevops)
-  ![Travis](https://img.shields.io/badge/-TravisCI-333333?style=flat&logo=travisci&logoColor=FFF)
 
 ### Enviroment, IDEs and Tools
   ![Visual Studio Community/Enterprise](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio-code&logoColor=7e10cc)
@@ -113,7 +109,7 @@ Discord: lalit1211_
 <br />
 
 <p align="center">
- Check out my repos <a  href="https://github.com/lalit1211?tab=repositories" target="_blank">👆</a>
+  <a  href="https://github.com/lalit1211?tab=repositories" target="_blank">Check out my repos 👆</a>
 </p>
 
 
