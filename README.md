@@ -113,7 +113,7 @@ Discord: lalit1211_
 <br />
 
 <p align="center">
-Check out my repos 👆
+ Check out my repos <a  href="https://github.com/lalit1211?tab=repositories" target="_blank">👆</a>
 </p>
 
 
